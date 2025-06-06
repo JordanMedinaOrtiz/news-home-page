@@ -1,4 +1,4 @@
-<h1 align="center">News Homepage</h1>
+<h1 align="center">News Home Page</h1>
 
 <p align="left">
   <a href="README_ES.md" target="_blank">
